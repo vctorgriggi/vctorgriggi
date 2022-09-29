@@ -6,7 +6,7 @@ Learning to be a full stack software developer!
 
 * 🌍  I'm based in Cuiabá, Brazil.
 * ✉️  You can contact me at [email](mailto:email).
-* 🧠  I'm learning C, PHP and JS programming language.
+* 🧠  I'm learning C, Python and JS programming language.
 * ⚡  I love games and my favorite is Outer Wilds!
 
 ### Skills
