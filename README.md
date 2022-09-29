@@ -1,7 +1,7 @@
 Hi 👋 My name is Victor
 ==========================
 
-Full Stack Software Developer
+Learning to be a full stack software developer!
 -----------------------------
 
 * 🌍  I'm based in Cuiabá, Brazil.
