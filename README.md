@@ -16,10 +16,6 @@ Learning to be a full stack software developer!
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
-### Socials
-
-<a href="https://www.linkedin.com/in/vctorgriggi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-
 ### And...
 
 <b>My GitHub Stats :)</b>
