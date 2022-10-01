@@ -8,7 +8,7 @@ Learning to be a full stack software developer :)
 * 🧠  I'm learning **C, Python and JS** programming language.
 * ⚡  I love games and my favorite is Outer Wilds!
 
-<br><br>
+<br>
 
 ## Skills
 
@@ -16,7 +16,7 @@ Learning to be a full stack software developer :)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
-<br><br>
+<br>
 
 ## GitHub Analytics
 
