@@ -1,6 +1,6 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, my name is Victor!</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, my name is Victor</h1>
 
-Learning to be a full stack software developer :)
+Learning to be a full stack software developer.
 -----------------------------
 
 * 🌍  I'm based in Cuiabá, Brazil.
@@ -13,8 +13,8 @@ Learning to be a full stack software developer :)
 ## Skills
 
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
 <br>
 
