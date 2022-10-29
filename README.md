@@ -5,8 +5,6 @@ Learning to be a full stack software developer.
 
 * 🌍  I'm based in Cuiabá, Brazil.
 * ✉️  You can contact me at [email](mailto:contatovictorgriggi@gmail.com).
-* 🧠  I'm learning **C and JS** programming language.
-* ⚡  I love games and my favorite is Outer Wilds :)
 
 <br>
 
