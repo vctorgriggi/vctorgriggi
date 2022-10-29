@@ -3,3 +3,4 @@
 
 * 🌍  I'm based in Cuiabá, Brazil.
 * ✉️  You can contact me at [my email](mailto:contatovictorgriggi@gmail.com).
+* 📌  [My LinkedIn](https://www.linkedin.com/in/vctorgriggi/).
