@@ -15,7 +15,3 @@ Sou estudante de Engenharia de Software no Instituto Infnet, e atualmente estou 
 #### :herb: informações úteis
 
 Meu interesse se estende em aprofundar minhas habilidades nessas tecnologias e contribuir significativamente nos projetos em que participo.
-
-#### :artificial_satellite: projetos
-
-- [último trabalho](https://www.colatte.io)
