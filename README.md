@@ -1,16 +1,21 @@
-### Hi there 👋
+### :sparkles: oi!
 
-<!--
-**vctorgriggi/vctorgriggi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Engenharia de Software no Instituto Infnet, e atualmente estou focado em JavaScript, Node.js e React. No momento, estou aplicando esses conhecimentos em um estágio, contribuindo em projetos de desenvolvimento web e trabalhando com metodologias ágeis e em equipe.
 
-Here are some ideas to get you started:
+#### :bulb: áreas de conhecimento
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Back-End: Node.js
+
+- Desenvolvimento Web: JavaScript, React
+
+- Banco de Dados: PostgreSQL
+
+- UI/UX: Criação de protótipos e interfaces usando Figma
+
+#### :herb: informações úteis
+
+Meu interesse se estende em aprofundar minhas habilidades nessas tecnologias e contribuir significativamente nos projetos em que participo.
+
+#### :artificial_satellite: projetos
+
+- [último trabalho](https://www.colatte.io)
