@@ -10,8 +10,6 @@ Sou um estudante de Engenharia de Software no Instituto Infnet, e atualmente est
 
 - Banco de Dados: PostgreSQL
 
-- UI/UX: Protótipos e interfaces (Figma)
-
 #### :herb: informações úteis
 
 Meu interesse se estende em aprofundar minhas habilidades nas tecnologias acima, e contribuir significativamente nos projetos em que participo.
