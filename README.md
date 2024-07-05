@@ -1,6 +1,6 @@
 ### :sparkles: oi!
 
-Sou um estudante de Engenharia de Software no Instituto Infnet, com conhecimentos em JavaScript, Node.js, React e Next.js, e ainda grande foco em UI/UX. No momento, estou aplicando meus conhecimentos em um estágio, no qual estou contribuindo em projetos de desenvolvimento web e trabalhando com metodologias ágeis e em equipe.
+Sou um estudante de Engenharia de Software no Instituto Infnet, com conhecimentos em JavaScript, Node.js, React e Next.js, e grande foco em UI/UX. Venho aplicando meus conhecimentos em projetos de desenvolvimento web, utilizando metodologias ágeis e colaborando efetivamente em equipe para alcançar bons resultados.
 
 #### :bulb: áreas de conhecimento
 
