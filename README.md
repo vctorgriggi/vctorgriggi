@@ -10,13 +10,14 @@
     - brazilian, pt-br + en-us<br>
     - software engineering student<br>
     - working as IT engineering intern<br>
-    - also working in UI/UX design<br>
+    - web/mobile developer, also working in UI/UX design<br>
+    - enjoy researching networks (vms, linux server)<br>
     <br><br>
-    langs:<br>
-    > node, react, react native<br>
+    langs && frameworks:<br>
+    > js, ts, node, react, react native<br>
     <br><br>
     os:<br>
-    > debian (main), win11 with android emulator<br>
+    > some GNOME-based distro (main), win11<br>
     <br><br>
     tools:<br>
     - <a href="https://developer.android.com/?hl=pt-br">android studio</a> - android emulator<br>
