@@ -14,10 +14,10 @@
     - enjoy researching networks (vms, linux server)<br>
     <br><br>
     langs && frameworks:<br>
-    > js, ts, node, react, react native<br>
+    > javascript, next, node, react, react native, typescript<br>
     <br><br>
     os:<br>
-    > some GNOME-based distro (main), win11<br>
+    > some gnome-based distro (actually debian), windows<br>
     <br><br>
     tools:<br>
     - <a href="https://developer.android.com/?hl=pt-br">android studio</a> - android emulator<br>
