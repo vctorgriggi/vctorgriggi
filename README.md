@@ -11,7 +11,7 @@
     - software engineering student<br>
     - working as IT engineering intern<br>
     - web/mobile developer, also working in UI/UX design<br>
-    - enjoy researching networks (vms, linux server)<br>
+    - and I like researching things about linux servers and VMs...<br>
     <br><br>
     langs && frameworks:<br>
     > javascript, next, node, react, react native, typescript<br>
