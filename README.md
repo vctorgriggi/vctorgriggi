@@ -16,7 +16,7 @@
     > javascript, typescript, next, node, react<br>
     <br><br>
     os:<br>
-    > some gnome-based distro (actually debian), windows<br>
+    > macOs, some gnome-based distro (actually debian), windows<br>
     <br><br>
     tools:<br>
     - <a href="https://developer.android.com/?hl=pt-br">android studio</a> - android emulator<br>
