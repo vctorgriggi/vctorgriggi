@@ -2,7 +2,6 @@
 
 software engineering student (last year) and full-stack developer
 
-- 23 years old
 - based in brazil
 - working mostly with frontend and web applications
 
