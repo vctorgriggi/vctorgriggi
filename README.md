@@ -1,6 +1,6 @@
 ## about
 
-full-stack developer and software engineering student (final year)
+full-stack developer
 
 - based in brazil
 - working mostly with frontend and web applications
