@@ -1,8 +1,11 @@
-# about
+### hi, i'm Victor
 
-full-stack developer
+Web developer, and founder of [Colatte](https://colatte.io), my software studio.
 
-- based in brazil
-- working mostly with frontend and web applications
+**Some things I've made**
+- [next-supabase-template](https://github.com/vctorgriggi/next-supabase-template) — a production-ready Next.js + Supabase starter
+- [Crema](https://github.com/vctorgriggi/crema) — a quiet companion for your Mac's notch
 
-interested in typescript, understanding how the web works, and contributing to open source :))
+---
+
+Want to work together, or just say hi? [Get in touch](mailto:contact@victorgriggi.com).
