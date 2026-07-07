@@ -4,7 +4,7 @@ Web developer, and founder of [Colatte](https://colatte.io), my software studio.
 
 **Some things I've made**
 - [next-supabase-template](https://github.com/vctorgriggi/next-supabase-template) — a production-ready Next.js + Supabase starter
-- [Crema](https://github.com/vctorgriggi/crema) — a quiet companion for your Mac's notch
+- [Crema](https://github.com/vctorgriggi/Crema) — a quiet companion for your Mac's notch
 
 ---
 
